@@ -165,29 +165,6 @@ ForestGuard is currently at **prototype / proof-of-concept stage**.
 - Network communication (LoRa / mesh)
 - Mobile/web dashboard for alerts
 
----
-
-## 📂 Repository Structure (example)
-
-forestguard/
-│── hardware/
-│ └── sensor_node_design/
-│
-│── software/
-│ ├── signal_processing/
-│ ├── localization/
-│ └── simulations/
-│
-│── research/
-│ ├── interviews/
-│ ├── personas/
-│ └── empathy_maps/
-│
-│── docs/
-│ └── pitch_materials/
-│
-└── README.md
-
 
 ---
 
@@ -208,7 +185,8 @@ Special thanks to:
 
 **Kaan Nasurla**  
 Student — Computer Science & Information Technology  
-Faculty of Automation and Computers  
+Faculty of Automatic Control and Computer Science
+university POLITEHNICA of Bucharest
 
 ---
 
